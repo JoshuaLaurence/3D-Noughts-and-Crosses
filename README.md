@@ -13,9 +13,11 @@ You can win in all directions
 - Even diagonally across multiple boards
 
 A win across multiple boards will look like this:
+
 <img width="197" alt="Screenshot 2021-07-07 at 16 53 04" src="https://user-images.githubusercontent.com/80101895/124791398-eef88780-df43-11eb-922f-9312ff9585cc.png">
 
 Not this:
+
 <img width="197" alt="Screenshot 2021-07-07 at 16 53 56" src="https://user-images.githubusercontent.com/80101895/124791427-f3bd3b80-df43-11eb-9425-b7922c5253b7.png">
 
 Feel free to play around with it!
