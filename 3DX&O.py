@@ -147,6 +147,7 @@ def createWinningPaths(board):
     global winningPaths
     global XList
     global OList
+    winningPaths = []
     XList = ["X"] * len(board)
     OList = ["O"] * len(board)
     for a in range(len(board)):
